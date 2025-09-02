@@ -6,12 +6,7 @@ Estudante de programação utilizando a linguagem Java.
 
 ### 🤖 Linguagens e Tecnologias
 
-<div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,docker,git&theme=dark)](https://skillicons.dev)
 
 ##
 
