@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`** 
 <br><br>
-Estudante de programação utilizando a linguagem Java.
+Desenvolvedor BackEnd Java.
 
 ### 🤖 Linguagens e Tecnologias
 
