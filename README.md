@@ -6,7 +6,7 @@ Desenvolvedor BackEnd Java.
 
 ### 🤖 Linguagens e Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,docker,git&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,docker,git,mysql&theme=dark)](https://skillicons.dev)
 
 ##
 
