@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`** 
 <br><br>
-Desenvolvedor BackEnd Java.
+Desenvolvedor Backend Java Jr.
 
 ### 🤖 Linguagens e Tecnologias
 
